@@ -3,7 +3,7 @@ import streamlit as st
 st.title("AiDE Prompt Guide")
 st.markdown(
     """
-# THE C.R.E.A.T.E FRAMEWORK
+## THE C.R.E.A.T.E FRAMEWORK
 
 If you want to write an effective 
 prompt, you need to brief ChatGPT 
@@ -12,7 +12,7 @@ Here’s a reminder of the different
 elements you should consider for 
 your prompt.
 
-### **C**haracter
+### 1. **C**haracter
 
 This is the role you want ChatGPT to 
 play. It could be an expert, a celebrity, 
@@ -26,7 +26,7 @@ dishes from the simplest of
 ingredients.”
 
 
-### **R**equest
+### 2. **R**equest
 
 This is the task you want ChatGPT to 
 do for you. You clearer you are, the 
@@ -40,7 +40,7 @@ have in my fridge and cupboards.
 Start by asking me what ingredients 
 I have available.”
 
-### **E**xamples
+### 3. **E**xamples
 
 It may help to give examples to help 
 ChatGPT understand what it is trying 
@@ -52,7 +52,7 @@ like Marco Pierre White, Gordon
 Ramsey, Anne-Sophie Pic and 
 Yannick Alléno.”
 
-### **A**dditions
+### 4. **A**dditions
 
 You’ll often discover elements in the 
 output that aren’t quite what you 
@@ -68,7 +68,7 @@ you my ingredients. Ask for the
 ingredients and then wait for my 
 response before answering.”
 
-### **T**ype of output
+### 5. **T**ype of output
 
 Tell ChatGPT exactly how to format 
 y o u r o u t p u t . Y o u c a n h a v e 
@@ -84,7 +84,7 @@ of ingredients and simple-to-follow
 steps. Write it in plain English 
 without jargon.”
 
-### **E**xtras
+### 6. **E**xtras
 
 There are some powerful phrases you 
 can add to your prompt to make it 
